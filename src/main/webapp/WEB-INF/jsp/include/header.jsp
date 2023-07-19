@@ -1,14 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<div class="h-100 d-flex align-items-center justify-content-between">
-	<%-- logo --%>
-	<div>
-		<h1 class="font-weight-bold">Marondalgram</h1>
-	</div>
+	pageEncoding="UTF-8"%>
 	
-	<%-- 로그인 정보 --%>
-	<div>
-		<span>새미님 안녕하세요</span>
-		<a href="#">로그아웃</a>
-	</div>
-</div>
+<link rel="stylesheet" type="text/css" href="/static/css/header.css">	
+	
+<header>
+	<h3>Marondalgram</h3>
+</header>
