@@ -14,6 +14,7 @@
 <!-- 내가 만든 외부 스타일시트 -->
 <link rel="stylesheet" type="text/css" href="/static/css/style.css">
 <link rel="stylesheet" type="text/css" href="/static/css/signIn.css">
+<link rel="stylesheet" type="text/css" href="/static/css/timeline.css">
 </head>
 <body>
 	<div id="wrap">
