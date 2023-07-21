@@ -32,10 +32,10 @@ public class PostEntity {
 	@Column(name = "userId")
 	private int userId;
 	
-	private int content;
+	private String content;
 	
 	@Column(name = "imagePath")
-	private int imagePath;
+	private String imagePath;
 	
 	@UpdateTimestamp
 	@Column(name = "createdAt")
